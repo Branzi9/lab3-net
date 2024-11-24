@@ -1,0 +1,21 @@
+﻿@page
+@model CheckModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<p>
+    @Model.Message
+
+    @foreach (var Password in Model.GeneratedPasswords){
+        <p>@Password</p>
+    }
+</p>
+
+<form method="get"> 
+    <input type="text" name="Password"/>
+    <input type="submit" value="Pošalji"/>
+</form>
+
+

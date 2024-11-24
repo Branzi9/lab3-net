@@ -1,0 +1,60 @@
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.AssemblyInfoInputs.cache
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.AssemblyInfo.cs
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.csproj.CoreCompileInputs.cache
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.RazorAssemblyInfo.cache
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.RazorAssemblyInfo.cs
+C:\Users\branimir.ladan\PassGen\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\branimir.ladan\PassGen\bin\Debug\net8.0\appsettings.json
+C:\Users\branimir.ladan\PassGen\bin\Debug\net8.0\PassGen.staticwebassets.runtime.json
+C:\Users\branimir.ladan\PassGen\bin\Debug\net8.0\PassGen.exe
+C:\Users\branimir.ladan\PassGen\bin\Debug\net8.0\PassGen.deps.json
+C:\Users\branimir.ladan\PassGen\bin\Debug\net8.0\PassGen.runtimeconfig.json
+C:\Users\branimir.ladan\PassGen\bin\Debug\net8.0\PassGen.dll
+C:\Users\branimir.ladan\PassGen\bin\Debug\net8.0\PassGen.pdb
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\staticwebassets\msbuild.PassGen.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\staticwebassets\msbuild.build.PassGen.props
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PassGen.props
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PassGen.props
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\scopedcss\bundle\PassGen.styles.css
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\scopedcss\projectbundle\PassGen.bundle.scp.css
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.dll
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\refint\PassGen.dll
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.pdb
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\PassGen.genruntimeconfig.cache
+C:\Users\branimir.ladan\PassGen\obj\Debug\net8.0\ref\PassGen.dll
+E:\.NET\.NET PROGRAMIRANJE\PassGen\bin\Debug\net8.0\appsettings.Development.json
+E:\.NET\.NET PROGRAMIRANJE\PassGen\bin\Debug\net8.0\appsettings.json
+E:\.NET\.NET PROGRAMIRANJE\PassGen\bin\Debug\net8.0\PassGen.staticwebassets.runtime.json
+E:\.NET\.NET PROGRAMIRANJE\PassGen\bin\Debug\net8.0\PassGen.exe
+E:\.NET\.NET PROGRAMIRANJE\PassGen\bin\Debug\net8.0\PassGen.deps.json
+E:\.NET\.NET PROGRAMIRANJE\PassGen\bin\Debug\net8.0\PassGen.runtimeconfig.json
+E:\.NET\.NET PROGRAMIRANJE\PassGen\bin\Debug\net8.0\PassGen.dll
+E:\.NET\.NET PROGRAMIRANJE\PassGen\bin\Debug\net8.0\PassGen.pdb
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.AssemblyInfoInputs.cache
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.AssemblyInfo.cs
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.csproj.CoreCompileInputs.cache
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.MvcApplicationPartsAssemblyInfo.cache
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.RazorAssemblyInfo.cache
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.RazorAssemblyInfo.cs
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\staticwebassets.build.json
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\staticwebassets.development.json
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\staticwebassets\msbuild.PassGen.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\staticwebassets\msbuild.build.PassGen.props
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PassGen.props
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PassGen.props
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\staticwebassets.pack.json
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\scopedcss\bundle\PassGen.styles.css
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\scopedcss\projectbundle\PassGen.bundle.scp.css
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.dll
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\refint\PassGen.dll
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.pdb
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\PassGen.genruntimeconfig.cache
+E:\.NET\.NET PROGRAMIRANJE\PassGen\obj\Debug\net8.0\ref\PassGen.dll
